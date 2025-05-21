@@ -2,13 +2,13 @@
     --oui-font-family: 'Manrope', sans-serif;
 
   /* colors */
-  --oui-color-primary: 255 215 0;
+  --oui-color-primary: 255 217 0;
   --oui-color-primary-light: 255 255 100;
   --oui-color-primary-darken: 200 150 0;
   --oui-color-primary-contrast: 255 255 255;
 
-  --oui-color-link: 240 180 0;
-  --oui-color-link-light: 255 220 50;
+  --oui-color-link: 245 190 25;
+  --oui-color-link-light: 255 225 77;
 
   --oui-color-secondary: 255 255 255;
   --oui-color-tertiary: 218 218 218;
@@ -19,7 +19,7 @@
   --oui-color-danger-darken: 200 50 50;
   --oui-color-danger-contrast: 255 255 255;
 
-  --oui-color-success: 41 233 169;
+  --oui-color-success: 76 214 168;
   --oui-color-success-light: 100 255 200;
   --oui-color-success-darken: 0 200 100;
   --oui-color-success-contrast: 255 255 255;
@@ -48,7 +48,7 @@
 
   --oui-color-trading-loss: 245 97 139;
   --oui-color-trading-loss-contrast: 255 255 255;
-  --oui-color-trading-profit: 41 233 169;
+  --oui-color-trading-profit: 76 214 168;
   --oui-color-trading-profit-contrast: 255 255 255;
 
   /* gradients */
@@ -65,7 +65,7 @@
   --oui-gradient-danger-end: 245 97 139;
 
   --oui-gradient-brand-start: 240 180 0;
-  --oui-gradient-brand-end: 255 215 0;
+  --oui-gradient-brand-end: 255 217 0;
   --oui-gradient-brand-stop-start: 6.62%;
   --oui-gradient-brand-stop-end: 86.5%;
   --oui-gradient-brand-angle: 17.44deg;
